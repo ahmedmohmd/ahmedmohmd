@@ -2,7 +2,7 @@
 ```typescript
 
 const who_i_am: AhmedMohamed = {
-  greet: "Hi 👋, I'm Ahmed Mohammed, working as Senior Technical Lead at _VOIS & Web ND Lead at Udacity",
+  greet: "Hi 👋, I'm Ahmed Mohammed, working as Frontend Developer",
   bio: 'A passionate frontend devloper and writer. from Egypt',
   currentlyLearning: 'How can I improve my skills?',
   askMeAbout: 'Frontend Technologies',
