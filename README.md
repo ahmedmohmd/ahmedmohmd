@@ -2,14 +2,15 @@
 ```typescript
 
 const who_i_am: AhmedMohamed = {
-  greet: "Hi 👋, I'm Ahmed Mohammed, working as Frontend Developer",
-  bio: 'Software Engineer with a passion for learning and using technology to solve real-world problems. 
-        Proven ability to work independently and as part of a team to deliver high-quality results. 
-        Always looking for new challenges and opportunities to make a difference in the world.',
+  greet: "Hi 👋, I'm Ahmed Mohammad, working as Frontend Developer",
+  bio: 'Experienced Software Engineer skilled in JavaScript and TypeScript.
+        Proficient in React.js and Node.js with expertise in UI/UX design,
+        database management (PostgreSQL, MongoDB), and full-stack web development.
+        Committed to clean, scalable code and continuous learning for innovative solutions.',
         
   currentlyLearning: 'How can I improve my skills?',
-  askMeAbout: 'Frontend Technologies',
-  reachMeAt: 'er.ahmed.3301@gmail.com',
+  askMeAbout: 'Web Development',
+  reachMeAt: 'ahmedmomahmod@gmail.com',
 };
 
 ```
